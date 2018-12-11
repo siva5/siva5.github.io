@@ -6,7 +6,10 @@ title: Lab Members
 
 **Group Leader**: Sivasubramanian R
 * DST-INSPIRE Faculty 
-<img style="float:right" src="/img/photo.png" />
+<img align="right" src="/img/photo.png" />  
+
+
+
 
 
 
