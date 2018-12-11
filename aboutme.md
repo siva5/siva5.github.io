@@ -3,9 +3,10 @@ layout: page
 title: Lab Members
 ---
 
-**Group Leader**: Sivasubramanian R 
-![](/img/Photo.png)
-* DST-INSPIRE Faculty
+
+**Group Leader**: Sivasubramanian R . 
+* DST-INSPIRE Faculty . 
+![](/img/photo.png)
 
 Interested in working in this group?
 
