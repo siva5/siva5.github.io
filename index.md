@@ -7,9 +7,9 @@ meta-title: "Plant-Pathogen Interactions Lab"
 meta-description: "Group Leader: Sivasubramanian R, PhD"
 bigimg:
   - "/img/Ath.png" : "Arabidopsis thaliana"
-  - "/img/Ath_inf.png" : "Arabidopsis accessions - Infected with A. brassicae"
+  - "/img/Ath_inf.jpg" : "Arabidopsis accessions - Infected with A. brassicae"
   - "/img/CXSY6809.JPG" : "Alternaria brassicae - Field infections on all parts of the plant"
   - "/img/FFUJ1567.JPG" : "Alternaria brassicae infection on Brassica juncea leaf"
   - "/img/IMCT9055.JPG" : "Alternaria brassicae infection"
-  - "/img/Spore.png" : "Single spore of Alternaria brassicae"
+  - "/img/Spore.jpg" : "Single spore of Alternaria brassicae"
 ---
