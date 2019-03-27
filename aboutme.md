@@ -4,8 +4,9 @@ title: Lab Members
 ---
 
 
-**Group Leader**:   Sivasubramanian R <img align="left" src="/img/photo.jpg" />  
-  DST-INSPIRE Faculty
+**Group Leader**:   Sivasubramanian R 
+![alt text](/img/photo.jpg)
+                    DST-INSPIRE Faculty
 
 &nbsp;
 
@@ -15,7 +16,7 @@ title: Lab Members
 
 &nbsp;
 
-Interested in working in my group? 
+Interested in working in my group? We are actively seeking motivated students to work in our group.
 
 For a BSc or MSc project in plant pathology, evolutionary & population genomics, and bioinformatics please [get in touch](contact.md).
 
