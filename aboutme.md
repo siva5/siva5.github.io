@@ -4,8 +4,7 @@ title: Lab Members
 ---
 
 
-**Group Leader**:   Sivasubramanian R 
-![alt text](/img/photo.jpg)
+**Group Leader**:   Sivasubramanian R <img src="/img/photo.jpg">
                     DST-INSPIRE Faculty
 
 &nbsp;
