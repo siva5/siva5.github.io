@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-**Sivasubramanian R**
+## **Sivasubramanian R**
 
 DST-INSPIRE Faculty,
 
@@ -26,8 +26,8 @@ India.
 
 
 
-Email: siva.r24@nabi.res.in
+**Email**: "siva.r24@nabi.res.in"
 
-For enquiries regarding projects/research positions: siva.r2405@gmail.com
+For enquiries regarding projects/research positions: "siva.r2405@gmail.com"
 
-phone: +91-172-5221183
+**phone**: +91-172-5221183
