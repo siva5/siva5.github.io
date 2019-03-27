@@ -25,6 +25,7 @@ description: Welcome to the Plant-pathogen Interactions Lab @ NABI
 navbar-links:
   People: "aboutme"
   Research: "research"
+  Contact: "contact"
   #  - Projects: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
