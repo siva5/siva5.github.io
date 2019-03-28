@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Plant-Pathogen Interactions Lab
+title: Plant-Microbe Interactions Lab
 subtitle: National Agri-Food Biotechnology Institute
 css: "/css/index.css"
-meta-title: "Plant-Pathogen Interactions Lab"
+meta-title: "Plant-Microbe Interactions Lab"
 meta-description: "Group Leader: Sivasubramanian R, PhD"
 bigimg:
   - "/img/Ath.png" : "Arabidopsis thaliana"
