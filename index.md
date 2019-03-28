@@ -12,4 +12,7 @@ bigimg:
   - "/img/FFUJ1567.JPG" : "Alternaria brassicae infection on Brassica juncea leaf"
   - "/img/IMCT9055.JPG" : "Alternaria brassicae infection"
   - "/img/Spore.jpg" : "Single spore of Alternaria brassicae"
+  - "/img/whiterust.jpg" : "White Rust of Brassicas (Albugo candida)"
+  - "/img/brassica_field.jpg" : "Brassica fields during flowering"
+  - "/img/Ath_variation.jpg" : "Natural variation in Arabidopsis"
 ---
