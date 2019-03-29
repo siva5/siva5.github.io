@@ -13,6 +13,8 @@ Research articles:
 
 4. Mandal S, <b>Rajarammohan S</b>, and Kaur J (2019) ROS accumulation and associated cell death mediates susceptibility to <i>Alternaria brassicae</i> in <i>Arabidopsis</i> accessions. <i>bioRxiv</i> 581025; doi: https://doi.org/10.1101/581025.
 
+5. <b>Rajarammohan S</b>, Pental D, and Kaur J (2019) Near-complete genome assembly of <i>Alternaria brassicae</i> - a necrotrophic pathogen of <i>Brassica</i> crops. <i>Molecular Plant-Microbe Interactions</i>. doi: https://doi.org/10.1094/MPMI-03-19-0084-A
+
 
 Book chapter:
 
