@@ -7,7 +7,7 @@ title: Lab Members
 <b> Group Leader </b>:   Sivasubramanian R 
 
 &nbsp;
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
 
                     
 &nbsp;
