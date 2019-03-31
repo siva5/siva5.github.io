@@ -3,12 +3,12 @@ layout: page
 title: Lab Members
 ---
 
-
+<p align="left"> <img src="/img/photo.jpg" align='left'> </p>
 **Group Leader**:   Sivasubramanian R 
 &nbsp;
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
-<p align="left"> <img src="/img/photo.jpg" align='left'> </p>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
+
                     
 &nbsp;
 
