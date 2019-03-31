@@ -2,7 +2,6 @@
 layout: page
 title: Research Projects
 ---
-<span style="text-align: justify;">
   
 &ensp;&ensp;&ensp;&ensp;&ensp; Plant pathogens exert one of the strongest selective pressures on plant populations. This leads to progressive changes in the genetic makeup of both the pathogen as well the plant populations, which is usually referred to as an arms race. Fungal pathogens are one of the highly evolved groups of microorganisms that affect various plant species and strongly differ in important life history traits such as dispersal mechanisms, type of reproduction and modes of parasitism. Economic damage due to fungal diseases in crops is estimated to be over 200 billion USD.  
   
@@ -24,5 +23,7 @@ We have sequenced and produced a highly-contiguous assembly of the genome of *A.
 
 Understanding a pathogen’s genetic diversity is crucial to the effectiveness and durability of host resistance. Population genetics of plant pathogens has enormous potential to unravel the evolutionary forces acting on pathogen population, and this information can be used to develop strategies of resistance breeding. We aim to catalogue the genetic diversity of various isolates of *A. brassicae* across India at the genomic level and analyse their implications in pathogenesis.
 
-</span>
+
+
+
 
