@@ -4,7 +4,7 @@ title: Lab Members
 ---
 
 <p align="left"> <img src="/img/photo.jpg" align='left'> </p>
-&ensp;&ensp; <b> Group Leader </b>:   Sivasubramanian R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
+&ensp;&ensp; <b> Group Leader </b>:   Sivasubramanian R &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; DST-INSPIRE Faculty
 
                     
 &nbsp;
