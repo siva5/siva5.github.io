@@ -9,13 +9,15 @@ title: Research Projects
 
 **1.	Prospecting for resistance genes in the wild germplasm of *Brassicas* and *Arabidopsis thaliana* accessions locally adapted to the India subcontinent**
 
-<img src="/img/Prj1.jpg" align='left'>
+<img src="/img/Prj1.jpg" align='center'> . 
+
 
 Natural variation in *A. thaliana* has been successfully utilized by our lab earlier to identify multiple genes/loci involved in resistance to A. brassicae (Rajaramohan S *et al*., 2017; Rajaramohan S *et al*.,2018) using GWA and QTL mapping approaches. Characterization of these genes and QTLs is underway. We aim to further identify durable resistance genes from wild germplasm of *Brassicas* and local populations of *A. thaliana*. Gene identification in the wild species of *Brassicas* will be greatly aided by the increasing genomic information that is becoming available due to reducing sequencing costs. This project will involve screening of the wild germplasm and landraces for resistance to *A. brassicae* and identify potential pre-breeding materials.
 
 **2.	Identification of *A. brassicae* effectors and elucidating their role in pathogenesis**
 
-<img src="/img/Prj2.jpg" align='right'>
+<img src="/img/Prj2.jpg" align='right'> . 
+
 
 We have sequenced and produced a highly-contiguous assembly of the genome of *A. brassicae* using Nanopore minION sequencing. Using various annotation pipelines, we have been able to predict and annotate various CAZy (Carbohydrate active enzymes), effectors, and secondary metabolite clusters. This project involves the function characterization of these identified effectors and secondary metabolites. 
 
