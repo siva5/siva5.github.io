@@ -40,8 +40,8 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 100px;
-  margin: 5px auto;
+  max-width: 300px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
