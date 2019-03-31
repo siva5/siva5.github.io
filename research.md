@@ -13,7 +13,6 @@ title: Research Projects
 <img src="/img/Prj1.jpg" align='center'>
 </p>
 
-
 &ensp;&ensp;&ensp;&ensp;&ensp; Natural variation in *A. thaliana* has been successfully utilized by our lab earlier to identify multiple genes/loci involved in resistance to A. brassicae (Rajaramohan S *et al*., 2017; Rajaramohan S *et al*.,2018) using GWA and QTL mapping approaches. Characterization of these genes and QTLs is underway. We aim to further identify durable resistance genes from wild germplasm of *Brassicas* and local populations of *A. thaliana*. Gene identification in the wild species of *Brassicas* will be greatly aided by the increasing genomic information that is becoming available due to reducing sequencing costs. This project will involve screening of the wild germplasm and landraces for resistance to *A. brassicae* and identify potential pre-breeding materials.
 
 **2.	Identification of *A. brassicae* effectors and elucidating their role in pathogenesis**
@@ -27,8 +26,6 @@ title: Research Projects
 **3.	Exploring the genetic diversity of *A. brassicae* across India to gain insights into the evolutionary history of the pathogen vis-à-vis its many host species**
 
 &ensp;&ensp;&ensp;&ensp;&ensp; Understanding a pathogen’s genetic diversity is crucial to the effectiveness and durability of host resistance. Population genetics of plant pathogens has enormous potential to unravel the evolutionary forces acting on pathogen population, and this information can be used to develop strategies of resistance breeding. We aim to catalogue the genetic diversity of various isolates of *A. brassicae* across India at the genomic level and analyse their implications in pathogenesis.
-
-
 
 
 
