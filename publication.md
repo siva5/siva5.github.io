@@ -6,7 +6,7 @@ title: Publications
 Research articles:
 
 
-<b><i>Alternaria brassicae</b></i>
+<b> <i> Alternaria brassicae </b> </i>
 
 
 1. <b>Rajarammohan S</b>, Kumar A, Gupta V, Pental D, Pradhan AK, and Kaur J (2017) Genetic Architecture of Resistance to <i>Alternaria brassicae</i> in <i>Arabidopsis thaliana</i>: QTL Mapping Reveals Two Major Resistance-Conferring Loci. <i>Frontiers in Plant Science</i>, 8:260. doi: https://doi.org/10.3389/fpls.2017.00260. 
