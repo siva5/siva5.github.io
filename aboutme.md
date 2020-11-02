@@ -17,6 +17,16 @@ title: Lab Members
 
 &nbsp;
 
+<b> Project Fellow </b>:   Deepak Duhan 
+
+&nbsp;
+
+<b> PhD student </b>:   Shivani Gajbhiye (CSIR-JRF) 
+
+&nbsp;
+
+&nbsp;
+
 Interested in working in my group? We are actively seeking motivated students to work in the group.
 
 For a BSc or MSc project in plant pathology, evolutionary & population genomics, and bioinformatics please [get in touch](contact.md).
