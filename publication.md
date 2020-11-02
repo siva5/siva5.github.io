@@ -5,7 +5,9 @@ title: Publications
 
 Research articles:
 
+
 <b><i>Alternaria brassicae</b></i>
+
 
 1. <b>Rajarammohan S</b>, Kumar A, Gupta V, Pental D, Pradhan AK, and Kaur J (2017) Genetic Architecture of Resistance to <i>Alternaria brassicae</i> in <i>Arabidopsis thaliana</i>: QTL Mapping Reveals Two Major Resistance-Conferring Loci. <i>Frontiers in Plant Science</i>, 8:260. doi: https://doi.org/10.3389/fpls.2017.00260. 
 
@@ -17,23 +19,26 @@ Research articles:
 
 5. <b>Rajarammohan S</b>, Pental D, and Kaur J (2019) Near-complete genome assembly of <i>Alternaria brassicae</i> - a necrotrophic pathogen of <i>Brassica</i> crops. <i>Molecular Plant-Microbe Interactions</i>. doi: https://doi.org/10.1094/MPMI-03-19-0084-A
 
-6. <b>Rajarammohan S</b>, Paritosh K, Pental D, Kaur J (2019) Comparative genomics of Alternaria species provides insights into the pathogenic lifestyle of Alternaria brassicae – a pathogen of the Brassicaceae family. <i>BMC Genomics</i> 20:1036. doi:10.1186/s12864-019-6414-6. 
+6. <b>Rajarammohan S</b>, Paritosh K, Pental D, Kaur J (2019) Comparative genomics of Alternaria species provides insights into the pathogenic lifestyle of Alternaria brassicae – a pathogen of the Brassicaceae family. <i>BMC Genomics</i> 20:1036. doi: https://doi.org/10.1186/s12864-019-6414-6. 
+
 
 
 <b>Collaborations - other phytopathogens</b>
 
-1.	Jaswal R, <b>Rajarammohan S</b>, Kiran K, T. R. Sharma (2020) Smut fungi as a stratagem to characterize rust effectors: opportunities and challenges.  <i>World Journal of Microbiology and Biotechnology</i>, 36:150.
 
-2.	Jaswal R, Kiran K, <b>Rajarammohan S</b>, Dubey H, Singh PK, Sharma Y, Deshmukh R, Sonah H, Gupta N, T.R. Sharma (2020) Effector Biology of Biotrophic Plant Fungal Pathogens: Current Advances and Future Prospectives.  <i>Microbiological Research</i>, 10.1016/J.MICRES.2020.126567.
+1.	Jaswal R, <b>Rajarammohan S</b>, Kiran K, T. R. Sharma (2020) Smut fungi as a stratagem to characterize rust effectors: opportunities and challenges.  <i>World Journal of Microbiology and Biotechnology</i>, 36:150. doi: https://doi.org/10.1007/s11274-020-02927-x
+
+2.	Jaswal R, Kiran K, <b>Rajarammohan S</b>, Dubey H, Singh PK, Sharma Y, Deshmukh R, Sonah H, Gupta N, T.R. Sharma (2020) Effector Biology of Biotrophic Plant Fungal Pathogens: Current Advances and Future Prospectives.  <i>Microbiological Research</i>, doi: https://doi.org/10.1016/J.MICRES.2020.126567.
 
 
 <b>Collaborations - Genomics of the gut microbiota</b>
 
-1. Singh R P, <b>Rajarammohan S</b>, Thakur R & Hassan M (2020) Linear and branched β-Glucans degrading enzymes from versatile <i>Bacteroides uniformis</i> JCM 13288T and their roles in cooperation with gut bacteria, <i>Gut Microbes</i>, 12:1, 1-18, DOI: 10.1080/19490976.2020.1826761
 
-2. Singh S, Bhatia R, Khare P, Sharna S, <b>Rajarammohan S</b>, Bishnoi M, Bhadada S,Sharma SS, Kaur J, Kondepudi KK. (2020) Anti-inflammatory <i>Bifidobacterium</i> strains prevent dextran sodium sulfate induced colitis and associated gut microbial dysbiosis in mice. <i>Scientific Reports</i> 10, 18597. https://doi.org/10.1038/s41598-020-75702-5
+1. Singh R P, <b>Rajarammohan S</b>, Thakur R & Hassan M (2020) Linear and branched β-Glucans degrading enzymes from versatile <i>Bacteroides uniformis</i> JCM 13288T and their roles in cooperation with gut bacteria, <i>Gut Microbes</i>, 12:1, 1-18, doi: https://doi.org/10.1080/19490976.2020.1826761
 
-3. Chander AM, Singh S, Sharma S, Chaudhry V, <b>Rajarammohan S</b>, Mantri SS, Bishnoi M, Bhadada SK, Kondepudi KK. (2020) Draft genome sequence of <i>Bifidobacterium pseudocatenulatum</i> Bif4, isolated from healthy infant feces. <i>Microbiol Resour Announc</i> 9:e00561-20.
+2. Singh S, Bhatia R, Khare P, Sharna S, <b>Rajarammohan S</b>, Bishnoi M, Bhadada S,Sharma SS, Kaur J, Kondepudi KK. (2020) Anti-inflammatory <i>Bifidobacterium</i> strains prevent dextran sodium sulfate induced colitis and associated gut microbial dysbiosis in mice. <i>Scientific Reports</i> 10, 18597. doi: https://doi.org/10.1038/s41598-020-75702-5
+
+3. Chander AM, Singh S, Sharma S, Chaudhry V, <b>Rajarammohan S</b>, Mantri SS, Bishnoi M, Bhadada SK, Kondepudi KK. (2020) Draft genome sequence of <i>Bifidobacterium pseudocatenulatum</i> Bif4, isolated from healthy infant feces. <i>Microbiol Resour Announc</i> 9:e00561-20. doi: https://doi.org/10.1128/MRA.00561-20
 
 
 
