@@ -3,7 +3,7 @@ layout: page
 title: Lab Members
 ---
 
-<p align="left"> <img src="/img/Photo_RS.jpg" align='left' width="250" height="250"> </p>
+<p align="left"> <img src="/img/Photo_RS.jpg" align='left' width="150" height="200"> </p>
 &ensp;&ensp; <b> Group Leader </b>:   Sivasubramanian R (DST-INSPIRE Faculty)   
 
                     
