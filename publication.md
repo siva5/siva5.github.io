@@ -21,7 +21,9 @@ Research articles:
 
 6. <b>Rajarammohan S</b>, Paritosh K, Pental D, Kaur J (2019) Comparative genomics of Alternaria species provides insights into the pathogenic lifestyle of Alternaria brassicae – a pathogen of the Brassicaceae family. <i>BMC Genomics</i> 20:1036. doi: https://doi.org/10.1186/s12864-019-6414-6. 
 
+7. <b>Rajarammohan S*</b> (2021) Redefining plant-necrotroph interactions: the thin line between hemibiotrophs and necrotrophs. <i>Frontiers in Microbiology</i>, 12:673518. doi: https://doi.org/10.3389/fmicb.2021.673518.
 
+8. Duhan D, Gajbhiye S, Jaswal R, Singh RP, Sharma TR, <b>Rajarammohan S*</b> (2021) Functional characterisation of the Nep1-like protein effectors of the necrotrophic pathogen - <i>Alternaria brassicae</i>. <i>bioRxiv</i> 2021.07.04.450447; doi: https://doi.org/10.1101/2021.07.04.450447. 
 
 <b>Collaborations - other phytopathogens</b>
 
