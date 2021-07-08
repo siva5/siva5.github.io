@@ -19,7 +19,6 @@ title: Lab Members
 
 <b> Project Fellow </b>:   Deepak Duhan 
 
-&nbsp;
 
 <b> PhD student </b>:   Shivani Gajbhiye (CSIR-JRF) 
 
